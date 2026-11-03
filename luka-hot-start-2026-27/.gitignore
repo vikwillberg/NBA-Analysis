@@ -1,0 +1,9 @@
+data/hist/
+data/espn/
+data/*.parquet
+data/heads.csv
+data/proj.json
+fonts/
+logos/
+heads/
+__pycache__/
